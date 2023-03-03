@@ -1,0 +1,5 @@
+# Digital-Finance-Manager
+
+Managing personal finances can be a daunting task, particularly when it comes to tracking expenses. An expense tracker helps individuals monitor and 
+control their spending habits by keeping a record of their expenses. The ability to understand expenses is critical for individuals and businesses 
+to effectively manage their finances. However, financial data can be overwhelming and difficult to understand, especially for those who are not trained in finance or accounting. Visualizations can play a significant role in simplifying financial data and making it more accessible to a broader audience. This project aims to utilize visualizations to help users better understand their expenses. Visual analytics can be a powerful tool in helping individuals and families better understand their spending habits and make informed decisions about their finances. By analysing various factors such as stores, areas, and websites that are more expensive, users can identify areas where they can cut down on expenses and make changes to their spending habits.
